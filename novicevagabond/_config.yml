@@ -9,9 +9,9 @@
 title: Around the World in 287 Days 
 email: nathanlubchenco@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A feminist, atheist, vegetarian who struggles with depression and loves to play games attempts to
+  vagabond around the world. 
+  Boulder -> Japan -> Thailand -> Spain -> Portugal -> NYC -> Costa Rica -> Nicaragua -> Guatamala -> Mexico -> ?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://novicevagabond.com" # the base hostname & protocol for your site
 twitter_username: nathanlubchenco 
