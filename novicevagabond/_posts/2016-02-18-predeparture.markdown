@@ -56,3 +56,7 @@ Among other things, I want to re-wire my brain to have some different default pr
     +   Armada: Ernest Cline
 
 Hopefully other goals will continue to emerge as brain space continues to free up.
+
+And now a customary picture of almost all of our stuff:
+
+![stuff](../../../../../img/stuff.jpg)
