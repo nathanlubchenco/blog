@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day -2"
+title:  "Day -3"
 date:   2016-02-18 12:02:53 -0700
 categories: US long  
 ---
@@ -60,3 +60,7 @@ Hopefully other goals will continue to emerge as brain space continues to free u
 And now a customary picture of almost all of our stuff:
 
 ![stuff](../../../../../img/stuff.jpg)
+
+And now in condensed form:
+
+![stacked_stuff](../../../../../img/stacked_stuff.jpg)
