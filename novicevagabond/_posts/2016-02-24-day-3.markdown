@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 3"
 date:   2016-02-24 12:02:53 -0700
-categories: US short  
+categories: Japan short  
 ---
 # First impressions of Tokyo 
  *limited to but a single neighborhood*: Ginza --
