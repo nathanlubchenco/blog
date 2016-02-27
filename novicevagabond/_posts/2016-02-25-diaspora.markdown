@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diaspora"
+title:  "diaspora"
 date:   2016-02-25 12:02:53 -0700
 categories: Books 
 ---
