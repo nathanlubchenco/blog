@@ -6,6 +6,7 @@ categories: Books
 ---
 
 Greatly enjoyed reading the Name of the Wind.  Many times fantasy novels are so epic in scope that things can get confusing and muddled.  Rather than following a huge cast of characters, this book focuses on the story of a single one.  
+
 + Interesting Magic
 + A bit too teenage boy angsty for me 
 + Main character is a narcisist's narcisist, so that could be off putting
