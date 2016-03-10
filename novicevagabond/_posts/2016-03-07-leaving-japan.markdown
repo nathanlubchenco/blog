@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 17"
+title:  "Day 17 (now with actual pictures, thanks internet)"
 date:   2016-03-07 12:02:53 -0700
 categories: Japan long 
 ---
@@ -19,8 +19,8 @@ Interesting stat we looked up after being so impressed by the volume of the publ
 
 We also made the relatively short by shinkansen (high speed train) trip to Hiroshima.  Where we had, what is most likely my favorite meal of the trip thus far (i'm a sucker for street food and its cousins): okonomayaki, a savory pancake like pile of deliciousness that you can slather in sauce and mayo.
 
-![cooking food](../../../../../img/okonomayaki_cooking.jpg)
-![okonomayaki](../../../../../img/okonomayaki.jpg)
+![cooking food](../../../../../img/okonomiyaki_cooking.jpg)
+![okonomayaki](../../../../../img/okonomiyaki.jpg)
 
 The peace park, memorials and museums and all worthwhile and nicely done, but quite intense and not a particularly easy way to spend a day. The best weather we've had so far and the deliciousness of the okonomayaki helped though:) 
 
