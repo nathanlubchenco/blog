@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Day 57"
+date:   2016-04-04 05:02:53 -0700
+categories: Thailand long 
+---
+
+<div class="epigraph">
+  <blockquote>
+  <p>There is as much zen at the bottom of mountain as at the top</p>
+  <footer>A zen saying my dad is fond of</footer>
+  </blockquote>
+</div>
+
+
+## Status / Goals Update
+
+### Yoga
+Back in Boulder, sometimes when I was practicing yoga, I would think about the trip and how I looked forward to practicing yoga then.  I would remind myself that it would be pretty much the same, but it was very easy to get wrapped up in a romanticized notion of practicing yoga *in Thailand*, despite fundamentally knowing that it would be much the same.  And as it turns out, it is much the same.  The thing that is different is the way in which it is a priority here.  Back home, yoga was something that I would try to fit into my schedule and hope to have energy to do.  Here, it essentially is my schedule because there are so few things that we *need* to do.
+
+On Samui, there was a yoga class at our condo complex, so we only had to walk a few dozen yards to make it to a class.  Here in Hua Hin, we're probably a twenty minute walk *in the heat*. However, this has in some ways been a good thing.  Because its so much more inconvenient to get there, I've started practicing on my own.  Sometimes I do one of the variations of postures that we learned in Samui and sometimes I use the vast knowledge of the internet to teach me something new. My primary resource so far has been [do yoga with me](https://www.doyogawithme.com/yoga_classes). It is quite empowering to realize that I don't *need* a teacher to be telling me what to do at every moment.  Clearly, there is still a lot I have to learn about yoga, so we'll continue to take classes.  But to see classes and instruction from teachers as supplemental, rather than fundamental, has been a valuable paradigm shift.
+
+### Sleep
+This has still been unfortunately elusive here. The heat, heavy airconditioning to combat the heat and walking a lot less all seem to be contributing factors.  
+
+### Depression
+Earlier on the trip, I spent a considerable amount of time not experiencing depression symptoms.  And the absence of these symptoms is great by itself.  More recently though, I'd say that I feel better than the mere absence of depression symptoms.  I feel damn near *normal*, by which i mean, good, even *happy*.  
+
+### Reading
+Overall, I've been reading less.  I have finished two books since my last update.
+
+*The Mechanical* by Ian Treglis
+
+This is an interesting alternative history set in 1926 where several hundred years before major advances in alchemy become the dominant technological force in the world.  There are some philosophical themes related to free will and speciesism that are generally compelling.  Enjoyed it, intend to read the rest of the series.
+
+*The Dresden Files: Stormfront* by Jim Butcher
+
+A very quick and fun read.  This doesn't take itself too seriously and if you want to enjoy it, you shouldn't either.  A wizard has a consulting service in modern day Chicago.  Probably the main thing that will keep me from consuming a lot of these is their comparitively high price on the kindle store.
+
+I've also started *Neuromancer* by William Gibson and while it started out pretty strong, i'm finding it a bit meandering in the middle.  This is probably part of why i've been reading a bit less, just don't feel in its grips and compelled to pick it up.  Might drop it and come back to it (or not).  One of the classics of the genre, but just not sure if i'll finish it.
+
+### Games
+The other major reason I've been reading less is that i've started playing magic the gather online.  Prompted partially by my reflection about how i've been missing game playing and by the fact that a reasonable chunk of my recreational video watching is related to magic.  The software is abysmal and I have to run a virtual box to run windows which is kind of laggy, clunky and chews through battery incredibly quickly.  But, its one of my very favorite games and I've been enjoying learning a ton of new strategies and the current metagame.  I've mostly been focused on the Pauper variant where only Common cards are allowed because its typically much cheaper than the other formats. 
+
+### Mindfulness
+We had another half-day retreat recently focused on loving-kindness.  And we continue practicing every day.  I've been meditating a bit less, but with the daily addition of yoga, I've been spending more time engaged in a mindful pracice. 
+
+### Fasting
+About 5 weeks into intermittent fasting and it continues to feel sustainable.  Compared to many other approaches I've had to hacking my eating, because this doesn't focus on *what* I eat and instead just limits *when* I eat, it feels way less restrictive.  I'd guess that I'm eating somwhere between 1/2 to 2/3 as many calories as I'd usually consume back in Boulder.  I regularly get to experience the feeling of not being full and occasionally experience being hungry.  It is really nice to be reminded that it is ok to feel hungry. At the very least, I've lost the Japan vacation weight and probably a bit more. 
+
+It is about 45 minutes until my fasting period is over and I get to eat lunch (literally, break-fast) soon.  My stomach is rumbling a bit, but not unpleasantly so. 
+
+## Prime Numbers, Coding and the nature of fun
+I spent a bit of time working on this [classical coding problem](http://www.spoj.com/problems/PRIME1/) related to finding prime numbers.  At first, I implimented a really naive approach that was sufficiently optimized for large number and ended up timing out.  Then I had some fun tweaking the approach and basically came up with something that turned out to resemble a version of [the sieve of eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).  This i felt pretty good about and enjoyed creatively trying to find a better approach to solving this problem.  
+
+However, this too ended up being too slow for the site I was solving the problem on. So, feeling a bit stumped, I resorted to doing some research and found that most likely what was needed was a *segmented sieve*.  
+
+An intersting thing happened here though.  I now knew the solution, but all interest in actually implimenting it evaporated.  What was fun for me was what I experienced as the creative attempt to improve my algorithm.  It is unlikely that I'd ever unassisted by the internet be able to creatively discover a best in class algorithm for much of anything.  I could likely come up with a pretty good way to do something, but coming up with one of the best solutions is just unlikely.
+
+If I ever need the best solution to a problem, I can likely just use a well vetted version in an open source library.  Or if not, I can do research on the internet and then carefully impliment a known solution.  But I wouldn't do either of these things *just for fun*.  Which I suppose speaks to my relationship with coding.  I don't find it intriniscally fun, but instead find problem solving of a certain nature intrinsically fun and coding *can* be a gateway to such problem solving.  
+
+So, I think, if the coding challenge site I had been on had been just slightly easier, such that i'd have been able to have come up with a solution that while not great, was kind of ok, i'd likely be on the next challenge and the positive feedback loop of delightful problem solving would have ensued.
+
+That ^^ is a pretty terribly written sentence...but i'm not going to edit it and that feels delightful.
+
+## Hua Hin
+Some good things about our time so far in Hua Hin:
+
++ There are sidewalks, they are glorious
++ There are thru-streets, which are wonderful
++ Our kitchen is much larger and nicer and we have better access to good ingedrients, so both the amount and quality of our cooking has increased
++ Transportation is considerablely cheaper
++ We're staying in a 1-bedroom instead of a studio and 500 sq ft has never felt so luxuriously large
++ It's been easier to be vegetarian here, tofu has been omnipresent and easily understood as being used instead of meat
++ After several failed attempts to get this haircut on Samui, I succeeded in lowering my body temperature several degrees with:
+
+![my nearly bald head](../../../../../img/nathan_head_shaved.jpg)
+
+Some things that have been less good:
+
++ It is even hotter here
++ Despite hoping to adjust to the heat, we really haven't.  Apparently, to make that happen you need to expose yourself fully to it for 3ish days.  But that just hasn't seemed possible.
++ We haven't explored that much and are mostly in recovery mode from being sick
++ Traffic, while more civilized and less dangerous due to traffic lights and such, is quite heavy and the air feels quite a bit more polluted
+
