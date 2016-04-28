@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Day 81"
+date:   2016-04-28 02:02:53 -0700
+categories: Thailand long 
+---
+<div class="epigraph">
+  <blockquote>
+  <p>It's tough to make predictions, especially about the future.</p>
+  <footer>Yogi Berra</footer>
+  </blockquote>
+</div>
+
+## Some Disappointments
+
+We've decided not to go to [van nava water park](https://www.vananavahuahin.com/), which we affectionately referred to as Thai Water World. It was one of the things that we were really excited about before the trip.  Especially with not being able to go to Water World this past summer due to our car accidents.   
+
+Similarly, I wasn't sure if i wanted to learn how to kite-surf, but after seeing folks do it, I'm pretty sure that I do want to learn.  
+
+But, neither are really possible in this weather.  Maybe if we were still 22 or something, then our bodies might hold up in this heat, but its just not a reasonable risk to take given how hot it is.  We did end up getting some vindication about how hot is is here when we spent some time chatting with our airbnb host, a British expat<label for="sn-expat" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-expat" class="margin-toggle"><span class="sidenote">there's a joke somewhere here about how expat is only used to describe white people and otherwise the word immigrant is used...but i'm not quite sure how to get there, so i'll just leave it at this...  </span>
+that has been living here for over 10 years. And he mentioned how hot it was and how he got heat headaches this time of year just like we do.  So its not even a matter of being able to adapt, its just too hot. At least at this time of year.  We followed the guide book advice of this being the best time of year to come to Thailand, but this feels like this advice is geared toward young backpacker folks who can stand the heat and don't want their outdoor activities ruined by rain.   
+
+## Generated Poetry
+
+I've been interested in generated art and generated poetry specifically for nearly two decades now.  In high school, I would psuedo-randomly flip through pages of sci-fi and fantasy books and take the top line of page to be a line of a poem.  The lines held together well, but things generally didn't link well between lines.  So, in college for a philosophy of art class i decided to make things more granular and made the element of randomness at the word level.  As a D&D player, I had more than enough access to dice (this was before I knew much of anything about computers and coding and such) to roll probably what was a D500 or so to select a page of a dictionary and then a D20 to select a word on that page. This was mostly nonsense as you can imagine.
+
+But now, I know about things like markov chains and there a significantly improved possibilities of producing interesting generated poetry now.  My most recent project is to take a relatively small corpus of poems, all haiku and all by Basho and generate Basho style haiku using markov chains.  And because I've always kind of wanted to make a twitter bot, I now autopost these generated haiku to my twitter account every 4444 minutes.  
+
+Despite being much better than my attempts when I was younger, these poems still have some issues.  But there is probably a lot of low hanging fruit for improvement.  For example, i don't have any mechanism other than a random number of words, so sometimes the poems stop in the middle of a 
+
+But this could be improved by restructring things a bit and stopping generation most often after words that already end poems, or at least lines of poems.
+
+Also, there is a significant limitation for using such a small corpus.  But I wanted these initial poems to be very much in the style of Basho and to be generally nature themed.  I might experiment with including additional works or beginning to create hybrid haiku by including an entirely other domain in the corpus. 
+
+I didn't want perfect to be the enemy of the good (which isn't too hard for me since i've never been accused of being a perfectionist), so I went ahead and got this autotweeting before it was that good.  Partially as a potential motivator to keep working on it. 
+
+I forked Tim Hopper's [tau repo](https://github.com/nathanlubchenco/tau) because it had a really nice template for using AWS Lambda to execute the code with no infrastructure required. Seemed to beat having a cron job on a server. 
+
+<div class="epigraph">
+  <blockquote>
+  <p>
+  such utter silence even
+  </p>
+  <p>
+  the wild ducks crying whirling
+  </p>
+  <p>
+  white cherry-blossoms dawn-shining mountains
+  </p>
+  <footer>-- #markov_basho_haiku</footer>
+  </blockquote>
+</div>
+
+<div class="epigraph">
+  <blockquote>
+  <p>
+crying whirling white snow
+  </p>
+  <p>
+flakes settling lilies on high
+  </p>
+  <p>
+bare trails sky-reflecting violets mountain-top
+  </p>
+  <footer>-- #markov_basho_haiku</footer>
+  </blockquote>
+</div>
+
+<div class="epigraph">
+  <blockquote>
+  <p>
+but i am one
+  </p>
+  <p>
+who spends his little woven
+  </p>
+  <p>
+cape no sign that can
+  </p>
+  <footer>-- #markov_basho_haiku</footer>
+  </blockquote>
+</div>
+
